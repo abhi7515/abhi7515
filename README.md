@@ -1,7 +1,7 @@
-#  Hi, I’m Abhinav Shukla
+#  Hi, I’m Abhinav Shukla contact: shuks201@gmail.com 
 
 **Senior Frontend Engineer** passionate about building scalable, performant, and user-friendly web applications.
-contact: shuks201@gmail.com || (+91)9680848822
+
 
 ---
 
