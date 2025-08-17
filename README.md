@@ -4,17 +4,17 @@
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
-- ⚛️ **Build scalable frontends** with React.js, TypeScript, Redux/Zustand
-- 🏗️ **Architect microfrontends** for independent & parallel team development
-- 📊 **Optimize performance at scale** (from 800ms → 40ms using Web Workers, caching, pipelines)
-- 🎮 **Shipped a cloud gaming platform at Jio** (low-latency ≤100ms, 1M+ users)
-- 🏥 **Built enterprise healthcare dashboards at Innovaccer** serving thousands of clinicians
+-  **Build scalable frontends** with React.js, TypeScript, Redux/Zustand
+-  **Architect microfrontends** for independent & parallel team development
+-  **Optimize performance at scale** (from 800ms → 40ms using Web Workers, caching, pipelines)
+-  **Shipped a cloud gaming platform at Jio** (low-latency ≤100ms, 1M+ users)
+-  **Built enterprise healthcare dashboards at Innovaccer** serving thousands of clinicians
 
 ---
 
-## 🏆 Highlights
+##  Highlights
 
 -  Reduced ACL processing time for **500K+ nodes by 95%**
 -  Founding Engineer @JioCloud Gaming checkout https://cloudplay.jiogames.com
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend:**  
 React, TypeScript, JavaScript (ES6+), Redux, Zustand, CSS-in-JS, Tailwind
@@ -33,7 +33,7 @@ React, TypeScript, JavaScript (ES6+), Redux, Zustand, CSS-in-JS, Tailwind
 Webpack, Module Federation, Microfrontends, CI/CD
 
 **Testing:**  
-Jest, React Testing Library, Cypress
+Jest, React Testing Library, Cypress, Playwright
 
 **Backend Exposure:**  
 Node.js, GraphQL, REST APIs
