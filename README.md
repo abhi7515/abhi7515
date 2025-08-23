@@ -47,12 +47,8 @@ Node.js, GraphQL, REST APIs
 
 ---
 
-## 🎈 Fun Fact
 
-> “Code is like humor. When you have to explain it, it’s bad.”  
-> — *Cory House*
-
-I believe great engineering is where reliability meets delight. If you love frontend wizardry or want to geek out about browser performance, let’s chat!
+I believe great engineering is where reliability meets delight. If you love frontend wizardry or want to geek out about browser performance, let’s chat! 
 
 ---
 
